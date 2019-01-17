@@ -1,0 +1,2 @@
+# youzan_export_to_wechat
+有赞商品导入到微信返佣商品的简易工具
